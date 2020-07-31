@@ -4,10 +4,10 @@ title: Curriculum Vitae
 ---
 
 #### MANUSCRIPTS: (* = MENTORED UNDERGRADUATE)
-- **Hammond, W.M.**, Yu, K.L., Wilson, L.A.*, Will, R.E., Anderegg, W.R.L., and Adams, H.D., "Dead or dying? Quantifying the point of no return from hydraulic failure in drought-induced tree mortality." New Phytologist. (2019). (link)
+- **Hammond, W.M.**, Yu, K.L., Wilson, L.A.*****, Will, R.E., Anderegg, W.R.L., and Adams, H.D., "Dead or dying? Quantifying the point of no return from hydraulic failure in drought-induced tree mortality." New Phytologist. (2019). (link)
 - **Hammond, W.M.**, and Adams, H.D., "Dying on time: Traits influencing the dynamics of tree mortality risk from drought." Tree Physiology. (2019). (link)
 - Hartmann, H., Adams, H., **Hammond, W.M.**, Hoch, G., Landhäusser, S., Wiley, E., and Zähle, S. “Identifying differences in carbohydrate dynamics of seedlings and mature trees to improve carbon allocation in models for trees and forests.” Environmental and Experimental Botany. 152: 7-18. (2018). (link)  
-- Kant, M.*, Angle, J., **Hammond, W.**, Adams, H. “Stressed about drought stress: measuring plant physiology in a rapidly changing climate.” American Biology Teacher. (in review, submitted 09/26/2019)  
+- Kant, M.*****, Angle, J., **Hammond, W.**, Adams, H. “Stressed about drought stress: measuring plant physiology in a rapidly changing climate.” American Biology Teacher. (in review, submitted 09/26/2019)  
 - (in prep) **Hammond, W.M.**, Dee, J., Freeman, A.J., Papeş, M., Hallgren, S., and Adams, H.D., “Learning from the Recent Past: Modelling Present Suitability of Cross Timbers in Oklahoma.” 
 - (in review) **Hammond, W.M.**, Stone, M.E.B., and Stone, P.A., “Picture worth a thousand words: updating repeat photography for the 21st century ecologist.”
 
