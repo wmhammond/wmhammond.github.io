@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: William M. Hammond
+subtitle: Doctoral Candidate
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Bill Hammond. I'm a Ph.D. candidate at Oklahoma State University.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### research
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Most of my research seeks to answer the question: **what kills trees**?
