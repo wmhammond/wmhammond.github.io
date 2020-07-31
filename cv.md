@@ -1,5 +1,9 @@
-#Curriculum Vitae
-MANUSCRIPTS: (* = MENTORED UNDERGRADUATE)
+---
+layout: page
+title: Curriculum Vitae
+---
+
+# MANUSCRIPTS: (* = MENTORED UNDERGRADUATE)
 Hammond, W.M., Yu, K.L., Wilson, L.A.*, Will, R.E., Anderegg, W.R.L., and Adams, H.D., "Dead or dying? Quantifying the point of no return from hydraulic failure in drought-induced tree mortality." New Phytologist. (2019). (link)
 
 Hammond, W.M., and Adams, H.D., "Dying on time: Traits influencing the dynamics of tree mortality risk from drought." Tree Physiology. (2019). (link)
@@ -12,7 +16,7 @@ Kant, M.*, Angle, J., Hammond, W., Adams, H. “Stressed about drought stress: m
 
 (in prep) Hammond, W.M. and Stone, P.A., “Synthesis of Repeat Photographic Methods in the Peloncillo Mountains of New Mexico.”
 
-TALKS & POSTERS:
+# TALKS & POSTERS:
   
 
 December, 2019. Hammond, W.M., Wilson, L.A.*, Will, R.E., and Adams, H.D., “Not dead yet: costs and consequences for trees surviving extreme hydraulic failure.” Oral presentation at American Geophysical Union Fall Meeting. 
@@ -49,7 +53,7 @@ March, 2016. Hammond, W.M. and Stone, P.A., “Before the Burn: Repeat Photograp
 
 March, 2016. Hammond, W.M. and Bass, T.D., “Storm Water Runoff: A Tale of Two Cities.” Poster Presentation at Oklahoma Research Day.
 
-AWARDS:
+# AWARDS:
 Outstanding Student Presentation Award. "Picture worth a thousand words: repeat photography for the 21st century scientist." American Geophysical Union (AGU) 2018 Fall Meeting.
 
 Selected as a 2018 Laureate of”ofAmerican Geophysical Union (AGU) 2018 Fall Meeting.
@@ -62,12 +66,12 @@ First Place,  From Research Idea to Smartphone App Competition.   "reCapp. Smart
 
 Three Minute Thesis (3MT) - University Finalist. (November, 2017)
 
-FELLOWSHIPS:
+# FELLOWSHIPS:
 $138,000 - Graduate Research Fellowship Program (GRFP). " Point of no return: experimental determination of lethal hydraulic thresholds during water stress for global forests." National Science Foundation. (April, 2018).
 
 $4,000 - Summer Graduate Research Fellowship, Graduate College, Oklahoma State University. (May 2017)
 
-GRANTS:
+# GRANTS:
 $4,000 - Professor Rahamimoff Travel Grants for Young Scientists. “Origin and spread of xylem embolism under drought stress.”  United States-Israel Binational Science Foundation (BSF). July-August, 2019, Weizmann Institute of Science, Rehovot, Israel.
 
 $4,000 - Laureate of 2019 “Make Our Planet Great Again” shot-stay program. “To tree, or not to tree? Mechanisms of tree mortality under drought.”  Campus France. (June, 2018, INRA UMR-PIAF, Clermont-Ferrand, France)
