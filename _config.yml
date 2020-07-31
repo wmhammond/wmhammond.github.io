@@ -4,10 +4,10 @@
 title: My website
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Academic website of William M. Hammond
 
 # Your name to show in the footer
-author: Some Person
+author: William M. Hammond
 
 # --- List of links in the navigation bar --- #
 
@@ -38,11 +38,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "william.hammond@okstate.edu"
+#  facebook: deanattali
+  github: wmhammond
+  twitter: wmhammond
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -58,8 +58,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: https://orcid.org/0000-0002-2904-810X
+  google-scholar: https://scholar.google.com/citations?hl=en&user=38svkAEAAAAJ
 
 # --- General options --- #
 
@@ -67,12 +67,12 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "wmhammond.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -168,7 +168,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
