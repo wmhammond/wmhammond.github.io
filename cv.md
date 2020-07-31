@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 # MANUSCRIPTS: (* = MENTORED UNDERGRADUATE)
-- Hammond, W.M., Yu, K.L., Wilson, L.A.*, Will, R.E., Anderegg, W.R.L., and Adams, H.D., "Dead or dying? Quantifying the point of no return from hydraulic failure in drought-induced tree mortality." New Phytologist. (2019). (link)
+- **Hammond, W.M.**, Yu, K.L., Wilson, L.A.*, Will, R.E., Anderegg, W.R.L., and Adams, H.D., "Dead or dying? Quantifying the point of no return from hydraulic failure in drought-induced tree mortality." New Phytologist. (2019). (link)
 
 - **Hammond, W.M.**, and Adams, H.D., "Dying on time: Traits influencing the dynamics of tree mortality risk from drought." Tree Physiology. (2019). (link)
 
